@@ -1,4 +1,7 @@
 /.idea
 /dist
+/build
+/__pycache__
 *.exe
 *.iml
+*.zip
